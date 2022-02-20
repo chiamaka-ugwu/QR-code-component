@@ -7,7 +7,7 @@ body{
     align-items: center;
     font-family: 'Outfit', sans-serif;
 }
-body .box{
+main{
     width: 23%;
     height: auto;
     background-color: #fff;
@@ -17,13 +17,13 @@ body .box{
     border-radius: 20px;
     margin-top: 60px;
 }
-body .box img{
+main img{
     margin-top: 15px;
     width: 90%;
     border-radius: 10px;
     
 }
-body .box h3{
+main h3{
     padding-top: 20px;
     width: 85%;
     margin: auto;
@@ -31,7 +31,7 @@ body .box h3{
     text-align: center;
 
 }
-body .box p{
+main p{
     padding-top: 20px;
     width: 85%;
     margin: auto;
@@ -40,7 +40,7 @@ body .box p{
     color: hsl(220, 15%, 55%);
     font-size: 15px;
 }
-body .attribution{
+.attribution{
     margin-top: 40px;
     width: 100%;
     font-size: 15px;
@@ -48,23 +48,23 @@ body .attribution{
     margin-bottom: 0;
     padding-bottom: 0;
 }
-body .attribution a{
+.attribution a{
     color: hsl(228, 45%, 44%);
 }
 
 @media only screen and (max-width: 450px){
     
-    body .box{
+    main{
         width: 80%;
         margin-top: 30px;
     }
-    body .box h3{
+    main h3{
         width: 85%;
     }
-    body .box p{
+    main p{
         width: 85%;
     }
-    body .attribution{
+   .attribution{
         margin-top: 30px;
         font-size: 13px;
     }
