@@ -11,7 +11,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/responsive-qr-code-component-built-with-basic-css-properties-2NlWg5Zz9]https://www.frontendmentor.io/solutions/responsive-qr-code-component-built-with-basic-css-properties-2NlWg5Zz9)
 - Live Site URL: [https://chiamaka-ugwu.github.io/QR-code-component/](https://chiamaka-ugwu.github.io/QR-code-component/)
 
 
